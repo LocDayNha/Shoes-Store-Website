@@ -1,0 +1,15 @@
+.ant-layout-sider-collapsed {
+  max-width: 0px !important;
+  min-width: 0px !important;
+  width: 0px !important;
+}
+
+.ant-menu-item {
+  height: 55px !important;
+  /* border-bottom: 0.1px solid darkgray; */
+  border-radius: 0px !important;
+  margin-inline: 0 !important;
+  margin-block: 0 !important;
+  width: 100% !important;
+  border-width: thin;
+}

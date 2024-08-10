@@ -1,0 +1,27 @@
+.appBg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background: url('../assets/imgs/background.jpg');
+    background-size: cover;
+}
+.loginForm{
+    background-color: rgba(255, 255, 255, 0.33);
+    box-shadow: 0px 8px 32px 0 rgba(2, 2, 15, 0.33);
+    backdrop-filter: blur(3px);
+    padding: 16px 16px 16px 16px;
+    border-radius: 16px;
+}
+.sociaLogin{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    color: white;
+    font-size: 24px;
+}
+.sociaIcon{
+    cursor: pointer;
+
+}
